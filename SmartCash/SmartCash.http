@@ -1,0 +1,4 @@
+@SmartCash_HostAddress = http://localhost:5039
+
+GET {{SmartCash_HostAddress}}_HostAddress}}/weatherforecast/
+Accept: application/json

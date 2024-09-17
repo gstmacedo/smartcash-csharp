@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\SmartCash.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\Email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\UsuarioEmpresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\Empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\Assinatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\FluxodeCaixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Data\\dbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\appsettings.Development.json",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\appsettings.Development.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T05:39:46.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmartCash.http",
+              "DocumentMoniker": "C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\SmartCash.http",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\SmartCash.http",
+              "ToolTip": "C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\SmartCash.http",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\SmartCash.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-16T05:21:25.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Program.cs",
+              "ToolTip": "C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T04:27:48.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\Email.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\Email.cs",
+              "ToolTip": "C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\Email.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\Email.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T04:20:31.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioEmpresa.cs",
+              "DocumentMoniker": "C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\UsuarioEmpresa.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\UsuarioEmpresa.cs",
+              "ToolTip": "C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\UsuarioEmpresa.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\UsuarioEmpresa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:35:57.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\Empresa.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\Empresa.cs",
+              "ToolTip": "C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\Empresa.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\Empresa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:35:41.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Assinatura.cs",
+              "DocumentMoniker": "C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\Assinatura.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\Assinatura.cs",
+              "ToolTip": "C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\Assinatura.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\Assinatura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:35:29.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FluxodeCaixa.cs",
+              "DocumentMoniker": "C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\FluxodeCaixa.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\FluxodeCaixa.cs",
+              "ToolTip": "C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\FluxodeCaixa.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\FluxodeCaixa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:34:37.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\Usuario.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:34:07.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbContext.cs",
+              "DocumentMoniker": "C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Data\\dbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Data\\dbContext.cs",
+              "ToolTip": "C:\\Users\\p051562\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Data\\dbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\smartcash-csharp\\SmartCash\\SmartCash\\Data\\dbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:32:38.74Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

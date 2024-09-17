@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|c:\\users\\p051562\\onedrive - rede.sp\\\u00E1rea de trabalho\\smartcash\\smartcash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|solutionrelative:smartcash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|c:\\users\\p051562\\onedrive - rede.sp\\\u00E1rea de trabalho\\smartcash\\smartcash\\controllers\\usuarioempresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|solutionrelative:smartcash\\controllers\\usuarioempresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|c:\\users\\p051562\\onedrive - rede.sp\\\u00E1rea de trabalho\\smartcash\\smartcash\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|solutionrelative:smartcash\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|c:\\users\\p051562\\onedrive - rede.sp\\\u00E1rea de trabalho\\smartcash\\smartcash\\controllers\\fluxodecaixacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|solutionrelative:smartcash\\controllers\\fluxodecaixacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|c:\\users\\p051562\\onedrive - rede.sp\\\u00E1rea de trabalho\\smartcash\\smartcash\\controllers\\assinaturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|solutionrelative:smartcash\\controllers\\assinaturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|c:\\users\\p051562\\onedrive - rede.sp\\\u00E1rea de trabalho\\smartcash\\smartcash\\repository\\assinaturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|solutionrelative:smartcash\\repository\\assinaturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|c:\\users\\p051562\\onedrive - rede.sp\\\u00E1rea de trabalho\\smartcash\\smartcash\\models\\assinatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|solutionrelative:smartcash\\models\\assinatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|c:\\users\\p051562\\onedrive - rede.sp\\\u00E1rea de trabalho\\smartcash\\smartcash\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|solutionrelative:smartcash\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|c:\\users\\p051562\\onedrive - rede.sp\\\u00E1rea de trabalho\\smartcash\\smartcash\\repository\\empresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|solutionrelative:smartcash\\repository\\empresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|c:\\users\\p051562\\onedrive - rede.sp\\\u00E1rea de trabalho\\smartcash\\smartcash\\repository\\interface\\iassinaturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|solutionrelative:smartcash\\repository\\interface\\iassinaturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|c:\\users\\p051562\\onedrive - rede.sp\\\u00E1rea de trabalho\\smartcash\\smartcash\\repository\\interface\\iempresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|solutionrelative:smartcash\\repository\\interface\\iempresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|c:\\users\\p051562\\onedrive - rede.sp\\\u00E1rea de trabalho\\smartcash\\smartcash\\repository\\interface\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|solutionrelative:smartcash\\repository\\interface\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|c:\\users\\p051562\\onedrive - rede.sp\\\u00E1rea de trabalho\\smartcash\\smartcash\\repository\\interface\\iusuarioempresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|solutionrelative:smartcash\\repository\\interface\\iusuarioempresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|c:\\users\\p051562\\onedrive - rede.sp\\\u00E1rea de trabalho\\smartcash\\smartcash\\repository\\interface\\ifluxodecaixarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8AA5B9-6047-4E6E-A74D-F6A8870149C1}|SmartCash\\SmartCash.csproj|solutionrelative:smartcash\\repository\\interface\\ifluxodecaixarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Program.cs",
+              "RelativeDocumentMoniker": "SmartCash\\Program.cs",
+              "ToolTip": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Program.cs",
+              "RelativeToolTip": "SmartCash\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:59:49.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioEmpresaController.cs",
+              "DocumentMoniker": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Controllers\\UsuarioEmpresaController.cs",
+              "RelativeDocumentMoniker": "SmartCash\\Controllers\\UsuarioEmpresaController.cs",
+              "ToolTip": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Controllers\\UsuarioEmpresaController.cs",
+              "RelativeToolTip": "SmartCash\\Controllers\\UsuarioEmpresaController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAswGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:07:13.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FluxodeCaixaController.cs",
+              "DocumentMoniker": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Controllers\\FluxodeCaixaController.cs",
+              "RelativeDocumentMoniker": "SmartCash\\Controllers\\FluxodeCaixaController.cs",
+              "ToolTip": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Controllers\\FluxodeCaixaController.cs",
+              "RelativeToolTip": "SmartCash\\Controllers\\FluxodeCaixaController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwDYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:06:54.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssinaturaController.cs",
+              "DocumentMoniker": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Controllers\\AssinaturaController.cs",
+              "RelativeDocumentMoniker": "SmartCash\\Controllers\\AssinaturaController.cs",
+              "ToolTip": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Controllers\\AssinaturaController.cs",
+              "RelativeToolTip": "SmartCash\\Controllers\\AssinaturaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:06:16.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Assinatura.cs",
+              "DocumentMoniker": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Models\\Assinatura.cs",
+              "RelativeDocumentMoniker": "SmartCash\\Models\\Assinatura.cs",
+              "ToolTip": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Models\\Assinatura.cs",
+              "RelativeToolTip": "SmartCash\\Models\\Assinatura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:38:01.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbContext.cs",
+              "DocumentMoniker": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Data\\dbContext.cs",
+              "RelativeDocumentMoniker": "SmartCash\\Data\\dbContext.cs",
+              "ToolTip": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Data\\dbContext.cs",
+              "RelativeToolTip": "SmartCash\\Data\\dbContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:36:36.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmpresaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Repository\\EmpresaRepository.cs",
+              "RelativeDocumentMoniker": "SmartCash\\Repository\\EmpresaRepository.cs",
+              "ToolTip": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Repository\\EmpresaRepository.cs",
+              "RelativeToolTip": "SmartCash\\Repository\\EmpresaRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvzMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:33:48.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssinaturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Repository\\AssinaturaRepository.cs",
+              "RelativeDocumentMoniker": "SmartCash\\Repository\\AssinaturaRepository.cs",
+              "ToolTip": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Repository\\AssinaturaRepository.cs",
+              "RelativeToolTip": "SmartCash\\Repository\\AssinaturaRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:33:44.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "SmartCash\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "SmartCash\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:33:04.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Repository\\Interface\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "SmartCash\\Repository\\Interface\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Repository\\Interface\\IUsuarioRepository.cs",
+              "RelativeToolTip": "SmartCash\\Repository\\Interface\\IUsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:30:45.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUsuarioEmpresaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Repository\\Interface\\IUsuarioEmpresaRepository.cs",
+              "RelativeDocumentMoniker": "SmartCash\\Repository\\Interface\\IUsuarioEmpresaRepository.cs",
+              "ToolTip": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Repository\\Interface\\IUsuarioEmpresaRepository.cs",
+              "RelativeToolTip": "SmartCash\\Repository\\Interface\\IUsuarioEmpresaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:30:25.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFluxodeCaixaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Repository\\Interface\\IFluxodeCaixaRepository.cs",
+              "RelativeDocumentMoniker": "SmartCash\\Repository\\Interface\\IFluxodeCaixaRepository.cs",
+              "ToolTip": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Repository\\Interface\\IFluxodeCaixaRepository.cs",
+              "RelativeToolTip": "SmartCash\\Repository\\Interface\\IFluxodeCaixaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:29:54.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmpresaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Repository\\Interface\\IEmpresaRepository.cs",
+              "RelativeDocumentMoniker": "SmartCash\\Repository\\Interface\\IEmpresaRepository.cs",
+              "ToolTip": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Repository\\Interface\\IEmpresaRepository.cs",
+              "RelativeToolTip": "SmartCash\\Repository\\Interface\\IEmpresaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:29:31.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAssinaturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Repository\\Interface\\IAssinaturaRepository.cs",
+              "RelativeDocumentMoniker": "SmartCash\\Repository\\Interface\\IAssinaturaRepository.cs",
+              "ToolTip": "C:\\Users\\p051562\\OneDrive - rede.sp\\\u00C1rea de Trabalho\\SmartCash\\SmartCash\\Repository\\Interface\\IAssinaturaRepository.cs",
+              "RelativeToolTip": "SmartCash\\Repository\\Interface\\IAssinaturaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:28:48.602Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
