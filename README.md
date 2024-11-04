@@ -30,8 +30,4 @@ Foram implementados testes unitários, de integração e de sistema abrangentes 
 - **Modularidade**: A estrutura do projeto foi organizada em módulos bem definidos, permitindo fácil manutenção e expansão.
 - **Reutilização**: Foram aplicadas práticas que favorecem a reutilização de código, como a criação de repositórios para interações com o banco de dados.
 
-## Funcionalidades de IA Generativa
-
-O projeto incorpora funcionalidades de IA generativa, integrando modelos simples que agregam valor à API. Essas funcionalidades são projetadas para melhorar a experiência do usuário e otimizar processos internos.
-
 
