@@ -5,6 +5,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using SmartCash.Data;
+using SmartCash.Models;
+using SmartCash.Services;
+using Microsoft.AspNetCore.Identity;
 using Oracle.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,8 +18,12 @@ builder.Services.AddSingleton<IConfiguration>(builder.Configuration);
 builder.Services.AddDbContext<dbContext>(options =>
     options.UseOracle(builder.Configuration.GetConnectionString("OracleConnection")));
 
+
 // Adiciona os controllers
 builder.Services.AddControllers();
+
+//Adiciona autenticação
+builder.Services.AddScoped<AuthService>();
 
 // Adiciona o Swagger
 builder.Services.AddEndpointsApiExplorer();
@@ -32,6 +39,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseRouting();
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

@@ -22,7 +22,7 @@ namespace SmartCash.Repository
             return result.Entity;
         }
 
-        public async Task DeleteAssinatura(long assinaturaId) // Ajustado para long
+        public async Task DeleteAssinatura(long assinaturaId)
         {
             var result = await dbContext.Assinaturas.FirstOrDefaultAsync(x => x.IdAssinatura == assinaturaId);
             if (result != null)
@@ -32,7 +32,7 @@ namespace SmartCash.Repository
             }
         }
 
-        public async Task<Assinatura> GetAssinatura(long assinaturaId) // Ajustado para long
+        public async Task<Assinatura> GetAssinatura(long assinaturaId)
         {
             return await dbContext.Assinaturas.FirstOrDefaultAsync(x => x.IdAssinatura == assinaturaId);
         }
@@ -47,7 +47,7 @@ namespace SmartCash.Repository
             var result = await dbContext.Assinaturas.FirstOrDefaultAsync(x => x.IdAssinatura == assinatura.IdAssinatura);
             if (result != null)
             {
-                result.Tipo = assinatura.Tipo; // Ajustado para os campos da model Assinatura
+                result.Tipo = assinatura.Tipo;
                 result.Valor = assinatura.Valor;
 
                 await dbContext.SaveChangesAsync();

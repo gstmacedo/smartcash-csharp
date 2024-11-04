@@ -21,6 +21,6 @@ namespace SmartCash.Models
 
         [Required]
         [MinLength(8)]
-        public string Senha { get; set; }
+        public string SenhaHash { get; set; }
     }
 }
