@@ -16,4 +16,22 @@ Todos os recursos, como fluxo de caixa, empresas e usuários, estão interconect
 Essa arquitetura atende bem às necessidades atuais do projeto e permite que, no futuro, o sistema possa evoluir para microservices à medida que as funcionalidades e a complexidade aumentarem.
 
 ## Instruções para usar a API
+
 Clonar o repositório e rodar o projeto.
+
+## Testes Implementados
+
+Foram implementados testes unitários, de integração e de sistema abrangentes utilizando o xUnit. Os testes visam garantir a funcionalidade correta da API e suas interações com o banco de dados, além de validar o fluxo de dados e as regras de negócio.
+
+## Práticas de Clean Code Aplicadas
+
+- **Nomes Claros**: Foram utilizados nomes descritivos para classes, métodos e variáveis, facilitando a compreensão do código.
+- **Simplicidade**: O código foi mantido o mais simples possível, evitando complexidades desnecessárias.
+- **Modularidade**: A estrutura do projeto foi organizada em módulos bem definidos, permitindo fácil manutenção e expansão.
+- **Reutilização**: Foram aplicadas práticas que favorecem a reutilização de código, como a criação de repositórios para interações com o banco de dados.
+
+## Funcionalidades de IA Generativa
+
+O projeto incorpora funcionalidades de IA generativa, integrando modelos simples que agregam valor à API. Essas funcionalidades são projetadas para melhorar a experiência do usuário e otimizar processos internos.
+
+
