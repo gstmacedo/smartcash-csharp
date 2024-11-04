@@ -8089,11 +8089,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\p051562\\OneDrive - rede.sp\\Área de Trabalho\\SmartCash\\SmartCash\\SmartCash.csproj",
+      "projectUniqueName": "C:\\Users\\p051562\\challenge\\SmartCash\\SmartCash.csproj",
       "projectName": "SmartCash",
-      "projectPath": "C:\\Users\\p051562\\OneDrive - rede.sp\\Área de Trabalho\\SmartCash\\SmartCash\\SmartCash.csproj",
+      "projectPath": "C:\\Users\\p051562\\challenge\\SmartCash\\SmartCash.csproj",
       "packagesPath": "C:\\Users\\p051562\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\p051562\\OneDrive - rede.sp\\Área de Trabalho\\SmartCash\\SmartCash\\obj\\",
+      "outputPath": "C:\\Users\\p051562\\challenge\\SmartCash\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\p051562\\AppData\\Roaming\\NuGet\\NuGet.Config",
