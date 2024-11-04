@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartCash")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c00ce982cec272a07ee3df12f9d81dd07efd144f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7af74d0eea4b4914ff0e349ae89410362a89106")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartCash")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartCash")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

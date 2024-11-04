@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\p051562\\challenge\\SmartCash\\SmartCash.csproj": {}
+    "C:\\teste\\SmartCash\\SmartCash.csproj": {}
   },
   "projects": {
-    "C:\\Users\\p051562\\challenge\\SmartCash\\SmartCash.csproj": {
+    "C:\\teste\\SmartCash\\SmartCash.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\p051562\\challenge\\SmartCash\\SmartCash.csproj",
+        "projectUniqueName": "C:\\teste\\SmartCash\\SmartCash.csproj",
         "projectName": "SmartCash",
-        "projectPath": "C:\\Users\\p051562\\challenge\\SmartCash\\SmartCash.csproj",
+        "projectPath": "C:\\teste\\SmartCash\\SmartCash.csproj",
         "packagesPath": "C:\\Users\\p051562\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\p051562\\challenge\\SmartCash\\obj\\",
+        "outputPath": "C:\\teste\\SmartCash\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\p051562\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,6 +57,10 @@
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[8.0.8, )"
             },
